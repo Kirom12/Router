@@ -1,0 +1,15 @@
+{
+    "name": "kirom/router",
+    "authors": [
+        {
+            "name": "kirom",
+            "email": "batros.web@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"App\\": "src"
+    	}
+	},
+    "require": {}
+}
